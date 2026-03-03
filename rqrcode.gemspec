@@ -32,7 +32,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.required_ruby_version = ">= 3.2"
-  spec.add_dependency "chunky_png", "~> 1.0"
   spec.add_dependency "rqrcode_core", "~> 2.0"
   spec.add_development_dependency "benchmark-ips", "~> 2.0"
   spec.add_development_dependency "bundler", "~> 4.0"
