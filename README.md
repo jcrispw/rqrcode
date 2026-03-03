@@ -1,5 +1,7 @@
 # RQRCode
 
+> **Note for this fork:** PNG export (`as_png`) has been removed, and `chunky_png` is no longer a dependency.
+
 ![](https://github.com/whomwah/rqrcode/actions/workflows/ruby.yml/badge.svg)
 [![Ruby Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://github.com/testdouble/standard)
 

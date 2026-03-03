@@ -2,7 +2,6 @@ PATH
   remote: .
   specs:
     rqrcode (3.2.0)
-      chunky_png (~> 1.0)
       rqrcode_core (~> 2.0)
 
 GEM
@@ -10,7 +9,6 @@ GEM
   specs:
     ast (2.4.3)
     benchmark-ips (2.14.0)
-    chunky_png (1.4.0)
     diff-lcs (1.6.2)
     json (2.18.0)
     language_server-protocol (3.17.0.5)
@@ -92,7 +90,6 @@ DEPENDENCIES
 CHECKSUMS
   ast (2.4.3) sha256=954615157c1d6a382bc27d690d973195e79db7f55e9765ac7c481c60bdb4d383
   benchmark-ips (2.14.0) sha256=b72bc8a65d525d5906f8cd94270dccf73452ee3257a32b89fbd6684d3e8a9b1d
-  chunky_png (1.4.0) sha256=89d5b31b55c0cf4da3cf89a2b4ebc3178d8abe8cbaf116a1dba95668502fdcfe
   diff-lcs (1.6.2) sha256=9ae0d2cba7d4df3075fe8cd8602a8604993efc0dfa934cff568969efb1909962
   json (2.18.0) sha256=b10506aee4183f5cf49e0efc48073d7b75843ce3782c68dbeb763351c08fd505
   language_server-protocol (3.17.0.5) sha256=fd1e39a51a28bf3eec959379985a72e296e9f9acfce46f6a79d31ca8760803cc
